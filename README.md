@@ -1,1 +1,3 @@
-# Horse anatomy and judge app
+# horse
+
+Horse anatomy and physical analyzer app.
