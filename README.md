@@ -1,5 +1,8 @@
 # Horse anatomy and judge app
 
+- Equine proportions
+- Race horse anatomy and physical analyzer
+
 TODO 1: Харьцаа тодорхойлох
 
 - Edge detection алгоритмаар зургийн хүрээг ялгах
@@ -9,3 +12,4 @@ TODO 1: Харьцаа тодорхойлох
 
 
 TODO 2: Морины амьтадтай зүйрлэсэн зүйрлэлүүд ямар харьцаатай байгааг олж тогтоох
+
