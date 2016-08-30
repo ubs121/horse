@@ -1,3 +1,4 @@
 # horse
 
-Horse anatomy and physical analyzer app.
+- Equine proportions
+- Race horse anatomy and physical analyzer
